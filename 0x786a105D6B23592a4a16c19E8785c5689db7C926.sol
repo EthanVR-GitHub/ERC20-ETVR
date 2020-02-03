@@ -116,3 +116,7 @@ function burnFrom(address _from, uint256 _value) public returns (bool success) {
 *percentage of VR tokens: ETVR. The brokers can also
 *use the lock-to-invest method to enlarge (2-5 times) ETH assets.
 */
+
+/**
+wonderful world ETVR
+*/
